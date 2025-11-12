@@ -4918,15 +4918,16 @@
 		(uuid "e1e8d040-63e6-414a-8d02-69fb081cd9bf")
 	)
 	(gr_text "Justin Nguyen's Chua Circuit 11/11/25"
-		(at 129.5 121 270)
-		(layer "B.SilkS")
-		(uuid "03bc00eb-eb88-41ec-8e3b-7471410b572b")
+		(at 129 90 270)
+		(layer "F.SilkS")
+		(uuid "b02e5ff9-f95f-4e28-a89e-46d75df847ad")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.25)
+				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify left bottom)
 		)
 	)
 	(segment
