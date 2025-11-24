@@ -5918,7 +5918,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5cfa3fc5-818e-4bae-bc3d-635f809768ea")
 		(property "Reference" "GND2"
 			(at 162.56 51.3079 0)

@@ -941,7 +941,7 @@
 		(property "Reference" "OPA2"
 			(at 0 0 90)
 			(layer "F.SilkS")
-			(uuid "c9b3fa47-c11a-45e9-8452-c7001cbd0a88")
+			(uuid "f3473ec9-db3e-46a0-891e-c66585cd87bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -953,7 +953,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "2b23d468-1732-49c4-9cea-42cdc70e6340")
+			(uuid "c7eb47f7-55e5-4a22-9239-6b2dc4e7f4fc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -965,7 +965,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c033ac0b-2451-49ca-8538-cf0d1f8e157b")
+			(uuid "22257c41-4a7e-4d7f-bd01-c5553ffe416d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -977,7 +977,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "872df1dc-bd9a-4463-8d21-6190317bbeef")
+			(uuid "a0b6b309-f831-4cb1-91cf-cdfca0ab8178")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +2960,7 @@
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "-VCC1"
-			(at -0.5 -2.5 0)
+			(at 0.5 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "c06a37ee-5d5a-4351-b9d2-ef49fe16ec45")
 			(effects
@@ -4307,7 +4307,7 @@
 		(property "Reference" "GND2"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "8b29f490-71a6-4506-8429-ff4d50d30193")
+			(uuid "e9882cc6-9274-4062-8c07-7b54854aecb4")
 			(effects
 				(font
 					(size 1 1)
@@ -4318,7 +4318,7 @@
 		(property "Value" "TP4"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "13b149a9-33ba-485a-acf7-ac89853bc1db")
+			(uuid "06e0824f-b98c-4321-a21a-a4f6cdb1cffa")
 			(effects
 				(font
 					(size 1 1)
@@ -4330,7 +4330,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "66f2c447-a6b4-4633-82d9-358f87f10f12")
+			(uuid "5049f131-3847-4345-9b8b-2587f4a4103f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,7 +4342,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42369b62-e22e-469d-99d4-90a27a7ddc6c")
+			(uuid "4c278074-d9f7-46b9-9e14-cba1ea6d367a")
 			(effects
 				(font
 					(size 1.27 1.27)
