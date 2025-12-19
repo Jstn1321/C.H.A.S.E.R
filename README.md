@@ -21,4 +21,4 @@
 
 # **Photoshoot**
 
-# **Creditst*
+# **Credits**
