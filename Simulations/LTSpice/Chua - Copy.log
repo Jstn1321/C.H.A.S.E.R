@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
-Circuit: C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
-Start Time: Sun Jan 25 20:47:36 2026
+Circuit: C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua - Copy.net
+Start Time: Wed Jan  7 17:55:34 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -35,10 +35,10 @@ Gmin stepping succeeded in finding the operating point.
 .step x=1900
 .step x=2200
 .step x=2500
-Total elapsed time: 929.798 seconds.
+Total elapsed time: 1625.876 seconds.
 
 Files loaded:
-C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
+C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua - Copy.net
 C:\Users\Justin Nguyen\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\Justin Nguyen\AppData\Local\LTspice\lib\sub\ADI.lib
 C:\Users\Justin Nguyen\AppData\Local\LTspice\lib\sub\ADTL084.lib
