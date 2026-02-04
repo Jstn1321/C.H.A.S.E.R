@@ -8,8 +8,8 @@
 <p align="center">
   <a href="#abstract">Abstract</a> •
   <a href="#methodology">Methodology</a> • 
-  <a href="#data">Data</a> •
   <a href="#photoshoot">Photoshoot</a> •
+  <a href="#demo">Demo</a> •
   <a href="#credits">Credits</a>
 </p>
 
@@ -17,8 +17,10 @@
 
 # **Methodology**
 
-# **Data**
-
 # **Photoshoot**
+
+<img width="1024" height="600" alt="Double-Scroll" src="https://github.com/user-attachments/assets/3e3b16bc-a2f4-4bce-a354-11990e291f86" />
+
+# **Demo**
 
 # **Credits**
