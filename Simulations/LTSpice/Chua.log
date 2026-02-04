@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
 Circuit: C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
-Start Time: Sun Jan 25 20:47:36 2026
+Start Time: Tue Feb  3 22:23:56 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -26,16 +26,16 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Changing Tseed to 1e-07
+Changing Tseed to 1e-11
+Changing Tseed to 1e-06
+Changing Tseed to 1e-12
 .step x=100
-.step x=400
-.step x=700
-.step x=1000
-.step x=1300
-.step x=1600
-.step x=1900
-.step x=2200
-.step x=2500
-Total elapsed time: 929.798 seconds.
+
+Simulation stopped by user.
+Total elapsed time: 3.748 seconds.
 
 Files loaded:
 C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
