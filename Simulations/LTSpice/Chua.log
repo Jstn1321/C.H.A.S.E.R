@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
 Circuit: C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
-Start Time: Tue Feb  3 22:23:56 2026
+Start Time: Wed Feb  4 21:10:26 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -35,7 +35,7 @@ Changing Tseed to 1e-12
 .step x=100
 
 Simulation stopped by user.
-Total elapsed time: 3.748 seconds.
+Total elapsed time: 1.846 seconds.
 
 Files loaded:
 C:\Nerd Projects\ChuaEncrypt\Simulations\LTSpice\Chua.net
